@@ -1,10 +1,10 @@
-# Identification / Identificação
+# Identification / Identificação  
 
-**Routine / Rotina:** Ecommerce Checkout Tests Automation
+**Routine / Rotina:** Ecommerce Checkout Tests Automation  
 **Version / Versão:** 0.0.1  
-**Status:** developing
-**Epic / Épico:** Ecommerce Tests
-**Story / Estória:** POC Automation of ecommerce checkout tests - Tester Test
+**Status:** developing  
+**Epic / Épico:** Ecommerce Tests  
+**Story / Estória:** POC Automation of ecommerce checkout tests - Tester Test  
 **Squad:** Digital Innovation  
 **Author / Autor:** Marcio A. O. Figueiredo <marciofweb@gmail.com> | [About me](https://www.linkedin.com/in/marciofigueiredoweb/)  
 **Creation / Criação:** 2020-06-03  
